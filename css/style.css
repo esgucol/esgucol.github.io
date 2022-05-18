@@ -93,3 +93,25 @@ nav {
     margin: 0;
     color: black;
 }
+
+
+/* Imagen linkedin encina 
+-----------------------*/
+
+.LinkedIn {
+    width: 5px;
+    height: 5px;
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.LinkedIn .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.LinkedIn:hover .img-top {
+    display: inline;
+}

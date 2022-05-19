@@ -37,20 +37,20 @@ nav {
 }
 
 .subtituloprincipal {
-    font-family: 'Oleo Script', cursive;
+ /*   font-family: 'Oleo Script', cursive;*/
     font-size:28px;
     margin: 0;
 }
 
 .titulocapitulo {
-    font-family: 'Oleo Script', cursive;
+ /*   font-family: 'Oleo Script', cursive; */
     font-size:40px;
     font-weight: normal;
     text-align: center;
     margin: 0;
 }
 .estilohref {
-    font-family: 'Abril Fatface', cursive;
+ /*   font-family: 'Abril Fatface', cursive; */
     font-size:16px;
     font-style: italic;
     font-weight: lighter;
@@ -60,7 +60,7 @@ nav {
 }
 
 .titulotabla {
-    font-family: 'Satisfy', cursive;
+ /*   font-family: 'Satisfy', cursive; */
     font-size:24px;
     font-weight: lighter;
     font-style: italic;
@@ -69,7 +69,7 @@ nav {
 }
 
 .infoempresa {
-    font-family: 'Satisfy', cursive;
+/*    font-family: 'Satisfy', cursive; */
     font-size:18px;
     font-weight: lighter;
     font-style: italic;
@@ -78,7 +78,7 @@ nav {
 }
 
 .textotabla {
-    font-family: 'Ubuntu', sans-serif;
+ /*   font-family: 'Ubuntu', sans-serif; */
     font-size:16px;
     font-weight: lighter;
     margin: 0;
@@ -86,7 +86,7 @@ nav {
 }
 
 .textofecha {
-    font-family: 'Ubuntu', sans-serif;
+/*    font-family: 'Ubuntu', sans-serif; */
     font-size:14px;
     font-style: italic;
     font-weight: lighter;

@@ -1,0 +1,3 @@
+git add .
+git commit -m 'version 12'
+git push https://github.com/esgucol/esgucol.github.io.git
